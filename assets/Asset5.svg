@@ -1,1 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 308.11 308.06"><defs><style>.cls-1{fill:#ebebeb;}.cls-2{fill:#453D42;}.cls-3{fill:#fff;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="Layer_1_copy_2" data-name="Layer 1 copy 2"><path class="cls-1" d="M292.11,222.42A154.1,154.1,0,0,0,158.36,0H150A154.09,154.09,0,0,0,16.05,222.51L20,229.92a154.09,154.09,0,0,0,268.19-.08Z"/><path class="cls-2" d="M210.74,297.35A154.08,154.08,0,0,0,154.06,0c-.79,0-1.56.05-2.34.06V154"/><circle class="cls-3" cx="154.06" cy="154" r="121.43"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 308.11 308.06">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #ebebeb;
+            }
+
+            .cls-2 {
+                fill: #4d4e82;
+            }
+
+            .cls-3 {
+                fill: #fff;
+            }
+        </style>
+    </defs>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1_copy_2" data-name="Layer 1 copy 2">
+            <path class="cls-1"
+                d="M292.11,222.42A154.1,154.1,0,0,0,158.36,0H150A154.09,154.09,0,0,0,16.05,222.51L20,229.92a154.09,154.09,0,0,0,268.19-.08Z" />
+            <path class="cls-2" d="M210.74,297.35A154.08,154.08,0,0,0,154.06,0c-.79,0-1.56.05-2.34.06V154" />
+            <circle class="cls-3" cx="154.06" cy="154" r="121.43" />
+        </g>
+    </g>
+</svg>
